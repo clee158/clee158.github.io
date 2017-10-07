@@ -33,8 +33,8 @@ kramdown:
 ####################################
 #
 owner:
-  name: Leonids
-  avatar: leonids-logo.png
+  name: Chaeyoon Lee
+  avatar: 
   job: "Software Engineering Intern @ NCSA"
   bio: "An aspiring software engineering student!"
   email: zourenyuan@gmail.com
@@ -48,9 +48,9 @@ owner:
     ad-client:
     ad-slot:
   bing-verify:
-  github: renyuanz #username
+  github: clee158 #username
   stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
-  linkedin: renyuan-zou-69b7038a #username
+  linkedin: chaeyoon-lee #username
   xing: #username
   instagram: #username
   lastfm: #username

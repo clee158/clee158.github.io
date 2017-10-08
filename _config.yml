@@ -34,9 +34,9 @@ kramdown:
 #
 owner:
   name: Chaeyoon
-  avatar: leonids-logo.png
+  #avatar: leonids-logo.png
   job: "Aspiring software engineer"
-  bio: "A backend developer who loves design awesome things. Working for RendezvousCheznous atm in Marseille, France."
+  bio: "A budding software engineer at the University of Illinois"
   #email: zourenyuan@gmail.com
   #disqus-shortname: renyuanzblog
   #twitter: renyuan814 #username
@@ -48,7 +48,7 @@ owner:
     ad-client:
     ad-slot:
   bing-verify:
-  #github: renyuanz #username
+  github: clee158 #username
   stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
   #linkedin: renyuan-zou-69b7038a #username
   xing: #username

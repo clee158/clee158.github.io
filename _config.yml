@@ -3,11 +3,11 @@
 # Site wide configuration
 ####################################
 #
-title: Leonids
-email: zourenyuan@gmail.com
-description: A simple and awesome blog theme powered by jekyll.
-url: https://renyuanz.github.io/leonids # the base hostname & protocol for your site
-keywords: ["Programming", "PHP", "Ruby"]
+title: Chaeyoon
+#email: zourenyuan@gmail.com
+description: Chaeyoon's personal technical blog
+url: https://clee158.github.io/ # the base hostname & protocol for your site
+keywords: ["Programming", "Python", "Data Science"]
 
 #
 ###################################
@@ -37,9 +37,9 @@ owner:
   avatar: 
   job: "Software Engineering Intern @ NCSA"
   bio: "An aspiring software engineering student!"
-  email: zourenyuan@gmail.com
-  disqus-shortname: renyuanzblog
-  twitter: renyuan814 #username
+  #email: zourenyuan@gmail.com
+  #disqus-shortname: renyuanzblog
+  #twitter: renyuan814 #username
   facebook: #username
   google:
     plus: #username
